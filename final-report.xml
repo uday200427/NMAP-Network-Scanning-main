@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nmaprun scanner="nmap" version="7.99">
+  <host>
+    <address addr="192.168.250.128" addrtype="ipv4"/>
+    <port protocol="tcp" portid="135"><state state="open"/><service name="msrpc"/></port>
+    <port protocol="tcp" portid="139"><state state="open"/><service name="netbios-ssn"/></port>
+    <port protocol="tcp" portid="445"><state state="open"/><service name="microsoft-ds"/></port>
+    <port protocol="tcp" portid="9468"><state state="filtered"/><service name="unknown"/></port>
+  </host>
+</nmaprun>

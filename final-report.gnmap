@@ -1,0 +1,1 @@
+Host: 192.168.250.128	Ports: 135/open/tcp//msrpc/, 139/open/tcp//netbios-ssn/, 445/open/tcp//microsoft-ds/, 9468/filtered/tcp//unknown/
