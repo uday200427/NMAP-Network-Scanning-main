@@ -1,0 +1,4 @@
+Running: Microsoft Windows 11 | 10 | 2022 | 2008 (97%)
+Aggressive OS guess: Microsoft Windows 11 24H2 (97%)
+Warning: OSScan results may be unreliable
+No exact OS matches for host

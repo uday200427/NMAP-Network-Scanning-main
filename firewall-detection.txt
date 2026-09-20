@@ -1,0 +1,5 @@
+ACK scan: 192.168.250.128
+135/tcp filtered
+139/tcp filtered
+445/tcp filtered
+9468/tcp filtered
